@@ -1,10 +1,17 @@
 /*
 Project Name: JavaJam Web Site (HW14)
 Author: Megan Worry 
-Date Last Modified: April 25, 2019
+Date Last Modified: April 30, 2019
 JavaJam Coffee House is the best. 
 */
 body {background-image: url(background.gif);}
+
+#wrapper {
+    background-color: #FEF6C2 ;
+    min-width: 900px ;
+    max-width: 1280px ;
+    box-shadow: 3px 3px 3px ;
+}
 
 header {
 	background-color: #D2B48C;
